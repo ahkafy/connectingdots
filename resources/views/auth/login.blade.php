@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>DORYBOOK LOGIN</title>
+  <title>LOGIN - Connecting Dots Member's Home</title>
 
   <meta content="We are Cloud House&trade; Technologies, actively participating in the market with IT Services and Business Solutions since 2017." name="description">
   <meta content="Cloud House, Best IT Company, Web Development, Web Design, Cheap eCommerce Website Design, Best Website Design, Digital marketing, Internet marketing, Digital marketing agency, Digital marketing services, Digital marketing Company, Social media marketing, SEO digital marketing, Online marketing, Social media marketing in Bangladesh, Full stack digital marketing agency" name="keywords">
